@@ -97,7 +97,6 @@ def run_slave(chunk_id):
 
     return container_slave
 
-    # print(container_slave.logs())
 
 if __name__ == "__main__":
     #sets up base infra volumes & network & build images
@@ -130,7 +129,7 @@ if __name__ == "__main__":
         name=container_name_master,  
         volumes={volume_name: {"bind": "/data", "mode": "rw"}},  
         environment={
-        "CITY_NAME": "Toronto",   
+        "CITY_NAME": "Thunder+Bay",   
         "PROVINCE_CODE": "ON",
         "CHUNK_NO": 6
     }
