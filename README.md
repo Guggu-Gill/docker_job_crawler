@@ -26,4 +26,4 @@ git clone https://github.com/Guggu-Gill/docker-job-crawler.git
 cd docker-job-crawler
 pip3 install -r requirements.txt
 
-
+pyhton3 infra.py
