@@ -26,4 +26,6 @@ git clone https://github.com/Guggu-Gill/docker-job-crawler.git
 cd docker-job-crawler
 pip3 install -r requirements.txt
 
+To run Docker SDK template:
+```bash
 pyhton3 infra.py
