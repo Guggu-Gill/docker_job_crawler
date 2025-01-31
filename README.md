@@ -13,7 +13,7 @@ This code demonstrates how to use Docker SDK as Infrastructure as Code (IaC) to 
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.9.6
 - Docker Environment
 
 
@@ -22,5 +22,6 @@ This code demonstrates how to use Docker SDK as Infrastructure as Code (IaC) to 
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Guggu-Gill/docker-job-crawler.git
 cd your-repository
+
