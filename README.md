@@ -30,3 +30,9 @@ pip3 install -r requirements.txt
 To run Docker SDK template:
 ```bash
 pyhton3 infra.py
+```
+
+To clean up your Docker environment (i.e., delete all containers, images, and networks):
+```bash
+./cleanup.sh
+```
