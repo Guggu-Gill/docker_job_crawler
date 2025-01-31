@@ -11,10 +11,13 @@
 ## Description
 This code demonstrates how to use Docker SDK as Infrastructure as Code (IaC) to run multiple Selenium sessions in parallel. It utilizes Docker containers, specifically a Selenium Standalone Chrome container, to handle parallel execution of automated web scraping tasks across multiple pages. The Docker SDK is used to manage container orchestration, ensuring efficient and isolated execution of each Selenium session.
 
+
 ## Prerequisites
 
 - Python 3.9.6
 - Docker Environment
+
+
 
 
 ## Installation
@@ -36,3 +39,5 @@ To clean up your Docker environment (i.e., delete all containers, images, and ne
 ```bash
 ./cleanup.sh
 ```
+
+
