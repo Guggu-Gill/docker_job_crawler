@@ -23,5 +23,5 @@ To get started, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/Guggu-Gill/docker-job-crawler.git
-cd your-repository
+cd docker-job-crawler
 
