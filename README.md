@@ -35,7 +35,7 @@ To run Docker SDK template:
 pyhton3 infra.py
 ```
 
-### Use with Caution
+### Use below with Caution
 To clean up your Docker environment (i.e., delete all containers, images, and networks):
 ```bash
 ./cleanup.sh
